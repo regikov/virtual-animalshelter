@@ -1,6 +1,6 @@
 ## Virtual Pet Sanctuary
 
-Virtual Pet Sanctuary is an educational backend application built with TypeScript, Express, and GraphQL for managing virtual pets. 
+Virtual Pet Sanctuary is a backend application built with TypeScript, Express, and GraphQL for managing virtual pets. 
 
 The application uses RESTful routes and supports CRUD operations for pet management, with plans for future GraphQL integration.
 
